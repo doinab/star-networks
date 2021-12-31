@@ -2,25 +2,29 @@
 
 ## Introduction
 
-The Blackfoot is an Algonquian-speaking tribe living in the northern Great Plains of North America. According to the source [#1], the Blackfoot often featured the Big Dipper, the Pleiades, and the Morning Star on their tipis, and believe that "when people die, their spirits go into the sky and become stars, thus ever increasing the number of stars in the heavens". 
+The Blackfoot is an Algonquian-speaking tribe living in the northern Great Plains of North America. 
 
 ## Description
 
-This sky culture for Stellarium is a transcript of the survey of North-American astronomical traditions from the book _Stars of the first people: Native American star myths and constellations_ [#1] (from page 243). The information is due to two old Blackfoot natives. It was recounted to anthropologists in the early 1900s (one of them in 1903, the other published in 1910). The information includes associated star stories, and only English names.
+This sky culture for Stellarium is a transcript of the survey of North-American astronomical traditions from the book _Stars of the first people: Native American star myths and constellations_ [#1] (from page 243). The information is due to two old Blackfoot natives. It was recounted to anthropologists in the early 1900s (one of them in 1903, the other published in 1910). The information includes associated star stories, and only English names. 
+
+According to the source, the Blackfoot often featured the Big Dipper, the Pleiades, and the Morning Star on their tipis, and believe that "when people die, their spirits go into the sky and become stars, thus ever increasing the number of stars in the heavens".
+
+This sky culture has 4 constellation line figures, and names for the Milky Way, the Pleiades, the Orion Nebula, three planets and three stars.
 
 ### Constellations and star groups
 
-The constellation __The Seven Brothers and Their Sister__ (identified with the Western __Big Dipper__) represents siblings who escape to the sky when being chased by a bear. The sister is the small star Alcor in one version. This is the version written here: the source doesn't explicitly provide the constellation lines, but identifies it with the modern Big Dipper, as a bowl with a handle, so Alcor is not connected by a line, but is part of the constellation. Two stars are named: the sister, and "the star at the end of the handle is often called __The Last Brother__" [#1]. This constellation was used for time-keeping before the introduction of clocks.
+The constellation __Seven Brothers and Their Sister__ (identified with the Western __Big Dipper__) represents siblings who escape to the sky when being chased by a bear. The sister is the small star Alcor in one version. This is the version written here: the source doesn't explicitly provide the constellation lines, but identifies it with the modern Big Dipper, as a bowl with a handle, so Alcor is not connected by a line, but is part of the constellation. Two stars are named: the sister, and "the star at the end of the handle is often called __The Last Brother__" [#1]. This constellation was used for time-keeping before the introduction of clocks.
 
 In a second version of this constellation, the youngest brother becomes the North Star, and the sister (who used to carry him) is the pointer star at the lip of the bowl. 
 
 The two main stars in __Gemini__ (Castor and Pollux) are __Ashes-Chief and Stuck-Behind__, twins whose story explains how a particular tipi design came into use.
 
-The __Lodge of the Spider Man__ is the brightest six stars of the Western __Northern Crown__, representing the stones laid in a circle which used to hold down a tipi. The __Spider Man's Fingers__ is a possible configuration of stars in Hercules; they represent five fingers spinning a thread to let the legendary Feather Woman down from the sky.
+The __Lodge of the Spider Man__ is the brightest six stars of the Western __Northern Crown__, representing the stones laid in a circle which used to hold down a tipi. The __Spider Man's Fingers__ is a possible configuration of stars in Hercules, so is uncertain; they would represent five fingers spinning a thread to let the legendary Feather Woman down from the sky.
 
-The six stars of the __Pleiades__ (called __The Lost Children__ or __The Bunched Stars__) represent six poor children and have an associated story which explains why they are visible in the evening sky only from fall to spring, but not the rest of the year.
+The six stars of the __Pleiades__ (called __Lost Children__ or __Bunched Stars__) represent six poor children and have an associated story which explains why they are visible in the evening sky only from fall to spring, but not the rest of the year.
 
-A constellation called __The Hand in the Sky__ has been documented, but not identified (so is not in this dataset). It could be another name for the __Spider Man's Fingers__, or another constellation entirely. An associated story also explains a particular tipi design.
+A constellation called __Hand in the Sky__ has been documented, but not identified (so is not in this dataset). It could be another name for the __Spider Man's Fingers__, or another constellation entirely. An associated story also explains a particular tipi design.
 
 ### Star names
 
@@ -28,11 +32,11 @@ The __North Star__ is called the __Star that Stands Still__ (the other stars wal
 
 ### Planets
 
-__Jupiter__ is known as __Young Morning Star__, representing a boy. __Venus__ is known as __Morning Star__, the boy's father. A story explains that they sometimes travel together, but they may also travel apart for many years. At the time when this story was told, they were in conjunction.
+__Jupiter__ is known as __Young Morning Star__, representing a boy, __Poïa__. __Venus__ is known as __Morning Star__, the boy's father. A story explains that they sometimes travel together, but they may also travel apart for many years. At the time when this story was told, they were in conjunction.
 
 ### Other sky objects
 
-The __Milky Way__ is called the __Wolf Trail__, which represents the shortest path from the sky to the earth. The __Orion Nebula__ is the stone knife of the mythical person __Blood-Clot__, "a culture hero who rids the world of evil" [#1], also called __Smoking-Star__. 
+The __Milky Way__ is called the __Wolf Trail__, which represents the shortest path from the sky to the earth. The __Orion Nebula__ is the stone knife of the mythical person __Blood-Clot__, "a culture hero who rids the world of evil" [#1], also called __Smoking-Star__.
 
 ## References
 

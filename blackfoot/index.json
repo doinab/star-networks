@@ -4,9 +4,9 @@
   "highlight": "CON blackfoot 003",
   "constellations": [{
     "id": "CON blackfoot 001",
-    "lines": [[67301, 65378, 62956, 59774, 58001, 53910, 54061], [65378, 65378]],
+    "lines": [[67301, 65378, 62956, 59774, 58001, 53910, 54061], [65477, 65477]],
     "common_name": {
-      "english": "The Seven Brothers and Their Sister"
+      "english": "Seven Brothers and Their Sister"
     }
   }, {
     "id": "CON blackfoot 002",
@@ -28,13 +28,14 @@
     }
   }],
   "common_names": {
-    "HIP 65378": [{"english": "The Sister"}],
+    "HIP 65477": [{"english": "The Sister"}],
     "HIP 67301": [{"english": "The Last Brother"}],
-    "NAME Pleiades": [{"english": "The Lost Children"}, {"english": "The Bunched Stars"}],
-    "NAME Jupiter": [{"english": "Young Morning Star"}],
-    "NAME Venus": [{"english": "Morning Star"}],
-    "NAME Milky Way": [{"english": ""}],
     "HIP 11767": [{"english": "Star that Stands Still"}],
-    "M 42": [{"english": "Blood-Clot"}, {"english": "Smoking-Star"}],
+    "NAME Pleiades": [{"english": "Lost Children"}, {"english": "Bunched Stars"}],
+    "NAME Jupiter": [{"english": "Young Morning Star"}, {"native": "Poks-o-piks-o-aks", "english": "Mistake Morning Star"}, {"native": "Poïa", "english": "Scarface"}],
+    "NAME Venus": [{"english": "Morning Star"}],
+    "NAME Mars": [{"english": "Big Fire Star"}, {"english": "Big Fire Eater"}],
+    "NAME Milky Way": [{"english": "Wolf Trail"}],
+    "NAME Orion Nebula": [{"english": "Blood-Clot"}, {"english": "Smoking-Star"}]
   }
 }
