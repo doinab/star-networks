@@ -1,0 +1,1 @@
+A temporary repository for cultural-astronomy data, to be contributed to Stellarium.
