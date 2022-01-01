@@ -35,31 +35,29 @@ There is some uncertainty in the constellation lines:
 
 One source attributed in [#1] (Ammarell 1999: 122–142) gives the following Bugis asterisms (literal quote):
 
-> A. bintoéng balué ‘widow-before-marriage’, (α, β Cen).
-
-> B. bintoéng bola képang ‘incomplete house’, (α to δ, μ Cru).
-
-> C. bintoéng bale mangngiweng ‘shark’, (Scorpius (south)).
-> D. bintoéng lambarué ‘ray fish, skate’, (Scorpius (north)).
->    D.1. (identified without name) ‘lost Pleiad’, (Antares).
-> E. bintoéng kappala’ é ‘ship’, (α to η UMa).
-> F. bintoéng kappala’ é ‘ship’, (α to η UMa; β, γ UMi).
-> G. bintoéng balu Mandara’ ‘Mandar widow’, (α, β UMa).
-> H. bintoéng timoro’ ‘eastern star’, (Altair).
-> J. bintoéng rakkalaé ‘plough stars’, (α to η Ori).
->    J.1. tanra tellué ‘sign of three’, (δ, ε, ζ Ori).
+> A. bintoéng balué ‘widow-before-marriage’, (α, β Cen)
+> B. bintoéng bola képang ‘incomplete house’, (α to δ, μ Cru)
+> 3. C. bintoéng bale mangngiweng ‘shark’, (Scorpius (south))
+> D. bintoéng lambarué ‘ray fish, skate’, (Scorpius (north))
+>    D.1. (identified without name) ‘lost Pleiad’, (Antares)
+> E. bintoéng kappala’ é ‘ship’, (α to η UMa)
+> F. bintoéng kappala’ é ‘ship’, (α to η UMa; β, γ UMi)
+> G. bintoéng balu Mandara’ ‘Mandar widow’, (α, β UMa)
+> H. bintoéng timoro’ ‘eastern star’, (Altair)
+> J. bintoéng rakkalaé ‘plough stars’, (α to η Ori)
+>    J.1. tanra tellué ‘sign of three’, (δ, ε, ζ Ori)
 > K. worong-porongngé or bintoéng pitu ‘cluster or seven stars’, (Pleiades).
 
 Another source attributed in [#1] (Pelras 1987: 27–32) gives the following Bugis asterisms (literal quote). The capital letters indicate the corresponding asterisms in Ammarell’s list:
 
-> 1. (= K) worong-mpolong ‘Tuft’, (Pleiades).
-> 2. wara-wara ‘Burning Coal’, (Aldebaran).
-> 3. (= J.1) tanra tellu ‘Triple Beacon’, (δ, ε, ζ Ori).
-> 4. manu’ ‘Chicken’, (Canopus, Sirius and Procyon).
+> 1. (= K) worong-mpolong ‘Tuft’, (Pleiades)
+> 2. wara-wara ‘Burning Coal’, (Aldebaran)
+> 3. (= J.1) tanra tellu ‘Triple Beacon’, (δ, ε, ζ Ori)
+> 4. manu’ ‘Chicken’, (Canopus, Sirius and Procyon)
 > 5. watang-mpata ‘Job’s Tears Stalk’, (α, β Leo)
-> 6. (= B) éppang ‘Lame’, (Crux).
-> 7. (= A) walu ‘Widow’, (α, β Cen).
-> 8. (= D) lambaru ‘Rayfish’, (Scorpius (north)).
+> 6. (= B) éppang ‘Lame’, (Crux)
+> 7. (= A) walu ‘Widow’, (α, β Cen)
+> 8. (= D) lambaru ‘Rayfish’, (Scorpius (north))
 > 9. tékkoroso ‘Pushed Plough’, (Triangulum?).
 
 ### Planets
