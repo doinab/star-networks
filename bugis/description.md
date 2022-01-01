@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Bugis are an ethnic group on the island of Sulawesi in Indonesia a with strong seafaring tradition. This sky culture has 12 constellation line figures (of which two variants overlap in the Big Dipper region, and another two variants overlap in the Orion region), and names for four stars and five other sky objects (the Pleiades, the Coalsack Nebula, the Magellanic Cloud(s), the Milky Way, and Venus).
+The Bugis are an ethnic group on the island of Sulawesi in Indonesia a with strong seafaring tradition. This sky culture has 12 constellation line figures (of which two variants overlap in the Big Dipper region, and another two variants overlap in the Orion region), and names for four stars and five other sky objects (the Pleiades, the Coalsack Nebula, the Magellanic Cloud(s), the Milky Way, and Venus). Many of the constellations reflect the seafaring tradition; others are of agricultural origin.
 
 ## Description
 
