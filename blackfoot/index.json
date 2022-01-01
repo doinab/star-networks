@@ -29,8 +29,8 @@
     }
   ],
   "common_names": {
-    "HIP 65477": [{"english": "The Sister"}],
-    "HIP 67301": [{"english": "The Last Brother"}],
+    "HIP 65477": [{"english": "Little Sister"}, {"english": "Kit-Fox", "native": "Sinopa"}],
+    "HIP 67301": [{"english": "Last Brother"}],
     "HIP 11767": [{"english": "Star that Stands Still"}],
     "NAME Pleiades": [{"english": "Lost Children"}, {"english": "Bunched Stars"}],
     "NAME Jupiter": [{"english": "Young Morning Star"}, {"native": "Poks-o-piks-o-aks", "english": "Mistake Morning Star"}, {"native": "Poïa", "english": "Scarface"}],

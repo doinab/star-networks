@@ -6,13 +6,13 @@ The Blackfoot is an Algonquian-speaking tribe living in the northern Great Plain
 
 ## Description
 
-This sky culture for Stellarium is a transcript of the survey of North-American astronomical traditions in the book _Stars of the first people: Native American star myths and constellations_ [#1] (from page 243). The information is due to two old Blackfoot natives. It was recounted to anthropologists in the early 1900s (one of them in 1903, the other published in 1910). The information includes associated star stories, and only English names. 
+This sky culture for Stellarium is a transcript of the broad survey of North-American astronomical traditions in the book _Stars of the first people: Native American star myths and constellations_ [#1] (from page 243). The information is not collected by this recent author, but is attributed to anthropologists from the early 1900s: _Mythology of the Blackfoot Indians_ published in 1908 [#2], and _The old north trail, or, Life, legends and religion of the Blackfeet Indians_ published in 1910 [#3]. 
 
-According to the source, the Blackfoot often featured the Big Dipper, the Pleiades, and the Morning Star on their tipis, and believe that "when people die, their spirits go into the sky and become stars, thus ever increasing the number of stars in the heavens".
+According to the sources, the Blackfoot often featured the Big Dipper, the Pleiades, and the Morning Star on their tipis, and believe that "when people die, their spirits go into the sky and become stars, thus ever increasing the number of stars in the heavens". The sources include many associated star stories (not transcribed here), and mostly English names.
 
 ### Constellations and star groups
 
-The constellation __Seven Brothers and Their Sister__ (identified with the Western Big Dipper) represents siblings who escape to the sky when being chased by a bear. The sister is the small star Alcor in one version. This is the version written here: the source doesn't explicitly provide the constellation lines, but identifies it with the modern Big Dipper, as a bowl with a handle, so Alcor is not connected by a line, but is part of the constellation. Two stars are named: the sister, and "the star at the end of the handle is often called __The Last Brother__" [#1]. This constellation was used for time-keeping before the introduction of clocks.
+The constellation __Seven Brothers and Their Sister__ (identified with the Western Big Dipper) represents siblings who escape to the sky when being chased by a bear. The sister is the small star Alcor in one version. This is the version written here: the source doesn't explicitly provide the constellation lines, but identifies it with the modern Big Dipper, as a bowl with a handle, so Alcor is not connected by a line, but is part of the constellation. Two stars are named: the __Little Sister__, also named as __Sinopa__ (translated __Kit-Fox__) in [#3], and "the star at the end of the handle is often called __Last Brother__" [#1]. This constellation was used for time-keeping before the introduction of clocks.
 
 In a second version of this constellation, the youngest brother becomes the North Star, and the sister (who used to carry him) is the pointer star at the lip of the bowl. 
 
@@ -39,6 +39,8 @@ The Milky Way is called the __Wolf Trail__, which represents the shortest path f
 ## References
 
  - [#1]: Dorcas S. Miller. Stars of the first people: Native American star myths and constellations. Westwinds Press, 1997.
+ - [#2]: Clark Wissler and D. C. Duvall. Mythology of the Blackfoot Indians. Published by the American Museum of Natural Hisory, New York. 1908. Available at <https://archive.org/details/mythologyofblack00wiss> (accessed Jan 2022).
+ - [#3]: Walter McClintock. The old north trail, or, Life, legends and religion of the Blackfeet Indians. Macmillan and Co., Limited, London. 1910. Available at <https://archive.org/details/oldnorthtrailorl00mccluoft> (accessed Jan 2022).
 
 ## Authors
 
@@ -46,4 +48,4 @@ This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl) and analy
 
 ## License
 
-TBD.
+TBD: attribution, but all derivatives allowed freely.
