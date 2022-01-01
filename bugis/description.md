@@ -36,7 +36,9 @@ There is some uncertainty in the constellation lines:
 One source attributed in [#1] (Ammarell 1999: 122–142) gives the following Bugis asterisms (literal quote):
 
 > A. bintoéng balué ‘widow-before-marriage’, (α, β Cen).
+
 > B. bintoéng bola képang ‘incomplete house’, (α to δ, μ Cru).
+
 > C. bintoéng bale mangngiweng ‘shark’, (Scorpius (south)).
 > D. bintoéng lambarué ‘ray fish, skate’, (Scorpius (north)).
 >    D.1. (identified without name) ‘lost Pleiad’, (Antares).
