@@ -14,24 +14,24 @@ The Mandar sky culture in [#2] is related (they are neighbouring ethnic groups o
 
 The literal text in the main source [#1] is below in quotes. In this constellation data with lines, compared to the lists below:
 
-- "CON bugis 001" is B (and 6)
-- "CON bugis 002" is C
-- "CON bugis 003" is D (and 8)
-- "CON bugis 004" is G
-- "CON bugis 005" is E
-- "CON bugis 006" is F (overlapping with E)
-- "CON bugis 007" is J.1
-- "CON bugis 008" is J (overlapping with J.1)
-- "CON bugis 009" is A (and 7)
-- "CON bugis 010" is 4
-- "CON bugis 011" is 5
-- "CON bugis 012" is 9.
+- CON bugis 001 `Incomplete House` is B (and 6)
+- CON bugis 002 `Shark` is C
+- CON bugis 003 `Ray Fish` is D (and 8)
+- CON bugis 004 `Mandar Widow` is G
+- CON bugis 005 `Ship` is E
+- CON bugis 006 `Ship` is F (overlapping with E)
+- CON bugis 007 `Sign of Three` is J.1
+- CON bugis 008 `Plow` is J (overlapping with J.1)
+- CON bugis 009 `Widow Before Marriage` is A (and 7)
+- CON bugis 010 `Chicken` is 4
+- CON bugis 011 `Job’s Tears Stalk` is 5
+- CON bugis 012 `Pushed Plough` is 9.
 
 There is some uncertainty in the constellation lines:
 
-- It is not clear if the lines in "CON bugis 002" (Shark) are complete; [#2] identifies the stars, while the drawing in [#1] is a pictogram for this constellation (unlike for most others which have line figures). The two don't match well; to match the pictogram better, replaced ι1 Sco with α Ara (towards the tail) plus λ Sco (the fin). Note that the Mandar version of this same constellation is a larger and more realistic structure.
+- It is not clear if the lines in CON bugis 002 `Shark` are complete; [#2] identifies the stars, while the drawing in [#1] is a pictogram for this constellation (unlike for most others which have line figures). The two don't match well; to match the pictogram better, replaced ι1 Sco with α Ara (towards the tail) plus λ Sco (the fin). Note that the Mandar version of this same constellation is a larger and more realistic structure.
 
-- "CON bugis 012" is marked as uncertain in [#1].
+- CON bugis 012 `Pushed Plough` is marked as uncertain in [#1].
 
 One source attributed in [#1] (Ammarell 1999: 122–142) gives the following Bugis asterisms (literal quote):
 
@@ -62,15 +62,15 @@ Another source attributed in [#1] (Pelras 1987: 27–32) gives the following Bug
 
 ### Planets
 
-Bintoѐng Bawi is Venus.
+`Bintoѐng Bawi` is Venus.
 
 ### Other sky objects
 
 One source attributed in [#1] and [#2] (Ammarell 1999) gives the following Bugis names:
 
-> B.1. bembé’ é ‘goat’, (Coal Sack nebula in Crux).
-> M. tanra Bajoé ‘sign of the Bajau’, (Magellanic Clouds).
-> Bintoѐng Nagaѐ is the Milky Way.
+> * B.1. bembé’ é ‘goat’, (Coal Sack nebula in Crux).
+> * M. tanra Bajoé ‘sign of the Bajau’, (Magellanic Clouds).
+> * Bintoѐng Nagaѐ is the Milky Way.
 
 ## References
 
@@ -80,7 +80,7 @@ One source attributed in [#1] and [#2] (Ammarell 1999) gives the following Bugis
 
 ## Authors
 
-This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl) and analysed in _The network signature of constellation line figures_, <https://arxiv.org/abs/2110.12329>.
+This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl) and analysed in `The network signature of constellation line figures`, <https://arxiv.org/abs/2110.12329>.
 
 ## License
 
