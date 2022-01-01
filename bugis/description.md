@@ -80,7 +80,7 @@ One source attributed in [#1] and [#2] (Ammarell 1999) gives the following Bugis
 
 ## Authors
 
-This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl) and analysed in `The network signature of constellation line figures`, <https://arxiv.org/abs/2110.12329>.
+This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl). It was digitised for the analysis of constellation line figures in arXiv:2110.12329 [cs.SI], `The network signature of constellation line figures`, <https://arxiv.org/abs/2110.12329>.
 
 ## License
 
