@@ -28,7 +28,7 @@ The North Star is called the `Star that Stands Still` (the other stars walk arou
 
 ### Planets
 
-Jupiter is known as `Young Morning Star`, representing a boy, `Poïa`. Venus is known as `Morning Star`, the boy's father. A story explains that they sometimes travel together, but they may also travel apart for many years. At the time when this story was told, they were in conjunction. The names for Mars are not explained in the source.
+Jupiter is known as `Young Morning Star`, representing a boy, `Poïa`. Venus is known as `Morning Star`, the boy's father. A story explains that they sometimes travel together, but they may also travel apart for many years. At the time when this story was documented (in July 1905), they were in conjunction. The names for Mars are not explained in the source.
 
 ### Other sky objects
 
@@ -39,10 +39,11 @@ The Milky Way is called the `Wolf Trail`, which represents the shortest path fro
  - [#1]: Dorcas S. Miller. Stars of the first people: Native American star myths and constellations. Westwinds Press, 1997.
  - [#2]: Clark Wissler and D. C. Duvall. Mythology of the Blackfoot Indians. Published by the American Museum of Natural History, New York. 1908. Available at <https://archive.org/details/mythologyofblack00wiss> (accessed Jan 2022).
  - [#3]: Walter McClintock. The old North trail, or, Life, legends and religion of the Blackfeet Indians. Macmillan and Co., Limited, London. 1910. Available at <https://archive.org/details/oldnorthtrailorl00mccluoft> (accessed Jan 2022).
+ - [#4]: Doina Bucur. The network signature of constellation line figures. arXiv e-prints. arXiv:2110.12329 [cs.SI]. 2021. Available at <https://arxiv.org/abs/2110.12329>.
 
 ## Authors
 
-This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl). It was digitised for the analysis of constellation line figures in arXiv:2110.12329 [cs.SI], `The network signature of constellation line figures`, <https://arxiv.org/abs/2110.12329>.
+This sky culture was contributed by _Doina Bucur_ (d.bucur@utwente.nl). It was digitised for the cross-culture analysis of constellation line figures in reference [#4], `The network signature of constellation line figures`.
 
 ## License
 
