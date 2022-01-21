@@ -1,4 +1,4 @@
-# Bugis
+# Mandar
 
 ## Introduction
 

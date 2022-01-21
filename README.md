@@ -7,13 +7,13 @@ Merged into the Stellarium sky-culture repository:
 In process:
 
 * S Asia: Bugis
+* S Asia: Mandar
 
 Still to reformat, grouped by location (Indian/Pacific Ocean, N/C/S America, Eurasia):
 
 * Anutan (present in desktop St.)
 * Javanese
 * Madura
-* Mandar
 * Vanuatu (present in desktop St.)
 
 * Koyukon

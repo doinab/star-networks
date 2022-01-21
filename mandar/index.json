@@ -42,7 +42,7 @@
   ],
   "common_names": {
     "NAME Pleiades": [{"native": "Bittoéng Malunus", "description": "Used as a sign of increasing number of flying fish in the Makassar Strait during the southeast monsoon season."}],
-    "NAME Milky Way": [{"english": "Dragon", "native": "Bittoéng Naga", "Used by fishermen to find a good fishing location without strong winds."}],
+    "NAME Milky Way": [{"english": "Dragon", "native": "Bittoéng Naga", "description": "Used by fishermen to find a good fishing location without strong winds."}],
     "NAME Venus": [{"english": "Star Carrying the Sun", "native": "Bittoéng Pambawa Allo", "description": "Used as a sign that the Sun will rise about an hour later."}, {"english": "Pig", "native": "Bittoéng Bawi", "description": "Used by mountain people as a mark that pigs will come out looking for food."}]
   }
 }
