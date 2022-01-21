@@ -4,10 +4,13 @@ Merged into the Stellarium Sky-Culture repository:
 
 * N America: Blackfoot
 
-Still to merge, grouped by location (Pacific, N/C/S America, Eurasia):
+In process:
+
+* S Asia: Bugis
+
+Still to reformat, grouped by location (Indian/Pacific Ocean, N/C/S America, Eurasia):
 
 * Anutan (present in desktop St.)
-* Bugis
 * Javanese
 * Madura
 * Mandar
@@ -32,3 +35,9 @@ Still to merge, grouped by location (Pacific, N/C/S America, Eurasia):
 
 * Ruelle
 * Russian (supersedes Siberian)
+
+## Issues
+
+There are sometimes multiple "common_name"s per constellation, but the format only allows to add one. 
+We cannot yet mark constellation variants. 
+The constellations with overlap are unclear when visualised.

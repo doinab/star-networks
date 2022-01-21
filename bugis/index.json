@@ -42,7 +42,7 @@
     {
       "id": "CON bugis 008",
       "lines": [[25336, 25930, 26311, 26727, 27366], [26311, 24436]],
-      "common_name": {"english": "Plow", "native": "Bintoéng Rakkalaé"}
+      "common_name": {"english": "Plough", "native": "Bintoéng Rakkalaé"}
     },
     {
       "id": "CON bugis 009",
@@ -52,7 +52,7 @@
     {
       "id": "CON bugis 010",
       "lines": [[30438, 32349, 37279]],
-      "common_name": {"english": "Chicken", "native": "Manu"}
+      "common_name": {"english": "Chicken", "native": "Manu'"}
     },
     {
       "id": "CON bugis 011",
@@ -71,7 +71,7 @@
     "HIP 97649": [{"english": "Eastern Star", "native": "Bintoéng Timoro'"}],
     "HIP 21421": [{"english": "Burning Coal", "native": "Wara-wara"}],
     "HIP 24436": [{"native": "Pajjѐkoѐ"}],
-    "NAME Pleiades": [{"english": "Seven Stars", "native": "Bintoéng Pitu"}, {"english": "Cluster", "native": "Worong-porongngé"}],
+    "NAME Pleiades": [{"english": "Seven Stars", "native": "Bintoéng Pitu"}, {"english": "Cluster", "native": "Worong-porongngé"}, {"english": "Tuft", "native": "Worong-mpolong"}],
     "NAME Coalsack Nebula": [{"english": "Goat", "native": "Bembé'é"}],
     "NAME Large Magellanic Cloud": [{"english": "Sign of the Bajau", "native": "Tanra Bajoé"}],
     "NAME Milky Way": [{"native": "Bintoѐng Nagaѐ"}],
