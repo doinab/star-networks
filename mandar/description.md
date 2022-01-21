@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Mandar are an ethnic group on the island of Sulawesi in Indonesia, with a strong seafaring and trading tradition. The sailors used stars and asterisms to pinpoint the cardinal directions. This sky culture has 6 constellation line figures, and names for 3 other identified sky objects (the Pleiades, the Milky Way, and Venus), and a name for an unidentified sky object. The constellations reflect the seafaring tradition.
+The Mandar are an ethnic group on the island of Sulawesi in Indonesia, with a strong seafaring and trading tradition. The sailors used stars and asterisms to pinpoint the cardinal directions. This sky culture has 6 constellation line figures, names for 3 other identified sky objects (the Pleiades, the Milky Way, and Venus), and the name of an unidentified sky object. The constellations reflect the seafaring tradition.
 
 ## Description
 
