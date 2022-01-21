@@ -18,13 +18,13 @@ One source attributed in [#1] (from 1999) gives the following Bugis asterisms an
 - Bintoѐng Bola Kѐppang, `Incomplete House` (α to δ, μ Cru)
 - Bintoѐng Balѐ Mangiwѐng, `Shark` (Scorpius (south))
 - Bintoѐng Lambaruѐ, `Ray Fish` or `Skate` (Scorpius (north))
--      `Lost Pleiad` (Antares)
+- `Lost Pleiad` (Antares)
 - Bintoѐng Kappala'ѐ, `Ship` (α to η UMa)
 - Bintoѐng Kappala'ѐ, `Ship` (α to η UMa; β, γ UMi)
 - Bintoѐng Balu Mandara', `Mandar Widow` (α, β UMa)
 - Bintoéng Timoro', `Eastern Star` (Altair)
 - Bintoéng Rakkalaé, `Plough` (α to η Ori)
--      Tanra Tѐlluѐ, `Sign of Three` (δ, ε, ζ Ori)
+- Tanra Tѐlluѐ, `Sign of Three` (δ, ε, ζ Ori)
 - Worong-porongngé, `Cluster`, or Bintoéng Pitu, `Seven Stars` (Pleiades).
 
 Another source attributed in [#1] (from 1987) gives the following Bugis asterisms and names, some of which overlap with the previous source:

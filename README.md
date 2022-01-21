@@ -1,6 +1,6 @@
 A temporary repository for cultural-astronomy data, to be contributed to Stellarium.
 
-Merged into the Stellarium Sky-Culture repository:
+Merged into the Stellarium sky-culture repository:
 
 * N America: Blackfoot
 
