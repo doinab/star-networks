@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The Bugis are an ethnic group on the island of Sulawesi in Indonesia, with a strong seafaring tradition. This sky culture has 12 constellation line figures. It also has names for four stars and five other sky objects (the Pleiades, the Coalsack Nebula, the Magellanic Cloud(s), the Milky Way, and Venus). Many of the constellations reflect the seafaring tradition; the others are of agricultural origin.
+The Bugis are an ethnic group on the island of Sulawesi in Indonesia, with a strong seafaring and trading tradition. This sky culture has 12 constellation line figures. It also has names for four stars and five other sky objects (the Pleiades, the Coalsack Nebula, the Magellanic Cloud(s), the Milky Way, and Venus). Many of the constellations reflect the seafaring tradition; the others are of agricultural origin.
 
 ## Description
 
 This sky culture for Stellarium is a transcript of data recorded in [#1]. This provides a unified drawing of Bugis constellations from two prior sources (one from 1999, one from 1987) which had overlapping but not identical data.
 
-The Mandar sky culture in [#2] is also related (they are neighbouring ethnic groups on the island of Sulawesi) so it is similar. Mandar is another Stellarium sky culture. This source also provides some data for the Bugis.
+The Mandar sky culture is related (they are neighbouring ethnic groups on the island of Sulawesi) so it is similar. The Mandar source [#2] also provides some data for the Bugis.
 
 ### Constellations and star names
 
@@ -49,7 +49,7 @@ There is some uncertainty in these constellation lines:
 
 ### Planets
 
-`Bintoѐng Bawi` or `Wari wariѐ` is Venus.
+Venus is Bintoѐng Bawi or Wari wariѐ.
 
 ### Other sky objects
 
