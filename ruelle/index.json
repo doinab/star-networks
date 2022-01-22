@@ -2,6 +2,8 @@
   "id": "ruelle",
   "region": "Europe",
   "highlight": "CON ruelle Crt",
+  "langs_use_native_names": ["fr"],
+  "native_lang": "fr",
   "constellations": [
     {
       "id": "CON ruelle UMi",

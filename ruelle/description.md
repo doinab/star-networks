@@ -2,13 +2,17 @@
 
 ## Introduction
 
-Alexandre Ruelle was an astronomy professor at the Paris Observatory. In 1786, he drew a star chart for the general public (in the service of education), titled `Nouvelle Uranographie ou méthode très facile pour apprendre les constellations` [#1]. This shows stars and constellation line figures for the entire sky. This was a time when the classical Greek constellations were only represented in the traditional style, using allegorical pictographs, and not line figures. Ruelle's approach was very modern: he eliminated the pictographs, and drew simple lines which linked stars. His constellation lines, although different from the modern Western ones, are just as complex: they draw large geometric shapes linking both principal and secondary stars.
+_Alexandre Ruelle_ was an astronomy professor at the Paris Observatory. In 1786, he drew a star chart for the general public (in the service of education), titled `Nouvelle Uranographie ou méthode très facile pour apprendre les constellations` [#1]. This shows stars and constellation line figures for the entire sky. This was a time when the classical Greek constellations were only represented in the traditional style, using allegorical pictographs, and not line figures. Ruelle's approach was very modern: he eliminated the pictographs, and drew simple lines which linked stars. His constellation lines, although different from the modern Western ones, are just as complex: they draw large geometric shapes linking both principal and secondary stars.
 
-Ruelle's star chart has historical importance: it is the earliest attempt (in the Western tradition) at reconstructing the classical Greek constellations with geometrical line figures, apparently without trying to mimic any pictograph. There is a single predecessor: in 1625, Jacob van der Heyden (a painter, sculptor, copperplate engraver, and publisher) published `Globus Concavus, Et Quidem Coelestis Stellatus`: a celestial globe with faint line figures, which are difficult to see [#2]. Ruelle’s innovation itself did not gain broad acceptance in his time: only in late 19th century, with the continued development of Western astronomy, lined constellation figures like Ruelle’s became commonplace.
+Ruelle's star chart has historical importance: it is the earliest attempt (in the Western tradition) at reconstructing the classical Greek constellations with geometrical line figures, apparently without trying to mimic any pictograph. There is a single predecessor: in 1625, _Jacob van der Heyden_, a publisher, painter, sculptor, and engraver, published `Globus Concavus, Et Quidem Coelestis Stellatus`: a celestial globe with faint line figures, which are difficult to see [#2]. Ruelle’s innovation itself was not disseminated widely, and did not gain broad acceptance in his time: only in late 19th century, with the continued development of Western astronomy, lined constellation figures like Ruelle’s became commonplace.
 
 ## Description
 
-This sky culture for Stellarium is a transcript of Ruelle's star chart [#1]. 
+This sky culture for Stellarium is a transcript of Ruelle's star chart [#1] from the Bibliothèque nationale de France. The source has two polar charts (covering declinations between each pole and the equator) and a partial equatorial chart (covering declinations between the equator and 35 deg. north and south). For some constellations, there are some differences in lines between the charts (the polar chart is used here, unless the line figure was unclear there). 
+
+Occasionally, Ruelle also draws lines to galaxies (for example, M81, M82 are linked into `Ursa Major`); they are not included here. A small number of stars couldn't be identified from the chart, so they are also not included.
+
+Obsolete constellations appear in Ruelle's chart: `Musca Borealis` (_La Mouche_), `Cerberus` (_Cerbere_), `Argo Navis` (_Le Vaisseau_).
 
 ## References
 
