@@ -14,30 +14,30 @@ The Mandar sky culture is related (they are neighbouring ethnic groups on the is
 
 One source attributed in [#1] (from 1999) gives the following Bugis asterisms and names:
 
-- Bintoѐng Baluѐ, `Widow Before Marriage`, (α, β Cen)
-- Bintoѐng Bola Kѐppang, `Incomplete House` (α to δ, μ Cru)
-- Bintoѐng Balѐ Mangiwѐng, `Shark` (Scorpius (south))
-- Bintoѐng Lambaruѐ, `Ray Fish` or `Skate` (Scorpius (north))
+- _Bintoѐng Baluѐ_, `Widow Before Marriage`, (α, β Cen)
+- _Bintoѐng Bola Kѐppang_, `Incomplete House` (α to δ, μ Cru)
+- _Bintoѐng Balѐ Mangiwѐng_, `Shark` (Scorpius (south))
+- _Bintoѐng Lambaruѐ_, `Ray Fish` or `Skate` (Scorpius (north))
 - `Lost Pleiad` (Antares)
-- Bintoѐng Kappala'ѐ, `Ship` (α to η UMa)
-- Bintoѐng Kappala'ѐ, `Ship` (α to η UMa; β, γ UMi)
-- Bintoѐng Balu Mandara', `Mandar Widow` (α, β UMa)
-- Bintoéng Timoro', `Eastern Star` (Altair)
-- Bintoéng Rakkalaé, `Plough` (α to η Ori)
-- Tanra Tѐlluѐ, `Sign of Three` (δ, ε, ζ Ori)
-- Worong-porongngé, `Cluster`, or Bintoéng Pitu, `Seven Stars` (Pleiades).
+- _Bintoѐng Kappala'ѐ_, `Ship` (α to η UMa)
+- _Bintoѐng Kappala'ѐ_, `Ship` (α to η UMa; β, γ UMi)
+- _Bintoѐng Balu Mandara'_, `Mandar Widow` (α, β UMa)
+- _Bintoéng Timoro'_, `Eastern Star` (Altair)
+- _Bintoéng Rakkalaé_, `Plough` (α to η Ori)
+- _Tanra Tѐlluѐ_, `Sign of Three` (δ, ε, ζ Ori)
+- _Worong-porongngé_, `Cluster`, or _Bintoéng Pitu_, `Seven Stars` (Pleiades).
 
 Another source attributed in [#1] (from 1987) gives the following Bugis asterisms and names, some of which overlap with the previous source:
 
-- Worong-mpolong, `Tuft` (Pleiades)
-- Wara-wara, `Burning Coal` (Aldebaran)
-- Tanra Tellu, `Triple Beacon` (δ, ε, ζ Ori)
-- Manu', `Chicken` (Canopus, Sirius and Procyon)
-- Watang-mpata, `Job's Tears Stalk` (α, β Leo)
-- Éppang, `Lame` (Crux)
-- Walu, `Widow` (α, β Cen)
-- Lambaru, `Ray Fish` (Scorpius (north))
-- Tékkoroso, `Pushed Plough` (Triangulum).
+- _Worong-mpolong_, `Tuft` (Pleiades)
+- _Wara-wara_, `Burning Coal` (Aldebaran)
+- _Tanra Tellu_, `Triple Beacon` (δ, ε, ζ Ori)
+- _Manu'_, `Chicken` (Canopus, Sirius and Procyon)
+- _Watang-mpata_, `Job's Tears Stalk` (α, β Leo)
+- _Éppang_, `Lame` (Crux)
+- _Walu_, `Widow` (α, β Cen)
+- _Lambaru_, `Ray Fish` (Scorpius (north))
+- _Tékkoroso_, `Pushed Plough` (Triangulum).
 
 There are two variants of the `Ship`, which overlap in the Big Dipper region. The `Mandar Widow` also overlaps with these. The `Plough` and the `Sign of Three` overlap in the Orion region.
 
@@ -49,15 +49,15 @@ There is some uncertainty in these constellation lines:
 
 ### Planets
 
-Venus is Bintoѐng Bawi or Wari wariѐ.
+Venus is _Bintoѐng Bawi_ or _Wari wariѐ_.
 
 ### Other sky objects
 
 One source attributed in [#1] and [#2] gives the following Bugis names:
 
-- Bembé'é, `Goat` (Coalsack Nebula in Crux)
-- Tanra Bajoé, `Sign of the Bajau` (Magellanic Clouds)
-- Bintoѐng Nagaѐ (the Milky Way).
+- _Bembé'é_, `Goat` (Coalsack Nebula in Crux)
+- _Tanra Bajoé_, `Sign of the Bajau` (Magellanic Clouds)
+- _Bintoѐng Nagaѐ_ (the Milky Way).
 
 ## References
 

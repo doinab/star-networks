@@ -4,15 +4,15 @@ Merged into the Stellarium sky-culture repository:
 
 * N America: Blackfoot
 
-In process:
+In process of merging:
 
 * S Asia: Bugis
 * S Asia: Mandar
 * Europe: Ruelle
+* Oceania: Anutan (present in desktop St.)
 
-Still to reformat, grouped by location (Indian/Pacific Ocean, N/C/S America, Eurasia):
+Still to reformat:
 
-* Anutan (present in desktop St.)
 * Javanese
 * Madura
 * Vanuatu (present in desktop St.)
