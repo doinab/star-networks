@@ -10,7 +10,7 @@ Ruelle's star chart has historical importance: it is the earliest attempt (in th
 
 This sky culture for Stellarium is a transcript of Ruelle's star chart [#1] from the Bibliothèque nationale de France. The source has two polar charts (covering declinations between each pole and the equator) and a partial equatorial chart (covering declinations between the equator and 35 deg. north and south). For some constellations, there are some differences in lines between the charts (the polar chart is used here, unless the line figure was unclear there). 
 
-Occasionally, Ruelle also draws lines to galaxies (for example, M81, M82 are linked into `Ursa Major`); they are not included here. A small number of stars couldn't be identified from the chart, so they are also not included.
+Occasionally, Ruelle also draws lines to galaxies (for example, M81, M82 are linked into `Ursa Major`); they are not included here. A small number of stars couldn't be identified (the stars are imprecisely positioned on the chart, and some are not labelled), so they are also not included.
 
 Obsolete constellations appear in Ruelle's chart: `Musca Borealis` (_La Mouche_), `Cerberus` (_Cerbere_), `Argo Navis` (_Le Vaisseau_).
 
