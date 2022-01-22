@@ -80,7 +80,7 @@
     {
       "id": "CON ruelle Tri",
       "lines": [[8796, 10064, 10670, 8796]],
-      "common_name": {"english": "Triangulum", "native": "Le Triangle (N)"},
+      "common_name": {"english": "Triangulum", "native": "Le Triangle"},
       "iau": "Tri"
     },
     {
@@ -92,8 +92,7 @@
     {
       "id": "CON ruelle MuB",
       "lines": [[12719, 13061, 13209, 12719]],
-      "common_name": {"english": "Musca Borealis", "native": "La Mouche"},
-      "iau": "MuB"
+      "common_name": {"english": "Musca Borealis", "native": "La Mouche"}
     },
     {
       "id": "CON ruelle Lac",
@@ -158,8 +157,7 @@
     {
       "id": "CON ruelle Cer",
       "lines": [[87933, 88794, 88267, 90139, 92043]],
-      "common_name": {"english": "Cerberus", "native": "Cerbere"},
-      "iau": "Cer"
+      "common_name": {"english": "Cerberus", "native": "Cerbere"}
     },
     {
       "id": "CON ruelle CrB",
@@ -300,7 +298,7 @@
     },
     {
       "id": "CON ruelle Leo",
-      "lines": [[46750, 47908, 50583], [46146, 46750], [46146, 47908], [50583, 50335, 51056, 48455, 47908], [51056, 52098, 53229, 51233, 49593, 51056], [50335, 50583, 49583, 49669, 54879, 54872, 57632, 54879], [54872, 57565, 57632, 55642, 55945, 56647, 55084, 51624, 49669], [51624, 54879], [51624, 49029, 47508, 46771, 46750]],
+      "lines": [[46750, 47908], [46146, 46750], [46146, 47908], [48455, 50335], [50335, 51056, 48455, 47908], [51056, 52098, 53229, 51233, 49593, 51056], [50335, 50583, 49583, 49669, 54879, 54872, 57632, 54879], [54872, 57565, 57632, 55642, 55945, 56647, 55084, 51624, 49669], [51624, 54879], [51624, 49029, 47508, 46771, 46750]],
       "common_name": {"english": "Leo", "native": "Le Lion"},
       "iau": "Leo"
     },
@@ -313,8 +311,7 @@
     {
       "id": "CON ruelle CarPupVel",
       "lines": [[30438, 42913, 41037, 45556, 45941, 48002, 45238, 50099, 52419, 51576, 52468, 52727, 44816, 39953, 39429, 44816], [39429, 35264, 36377, 38414, 39429], [36377, 31685, 32768, 30438], [39429, 39757, 38835, 38170, 38070, 39429], [38835, 39906, 39095, 38835]],
-      "common_name": {"english": "Argo Navis", "native": "Le Vaisseau"},
-      "iau": "CarPupVel"
+      "common_name": {"english": "Argo Navis", "native": "Le Vaisseau"}
     },
     {
       "id": "CON ruelle Cet",
@@ -355,19 +352,19 @@
     {
       "id": "CON ruelle Mus",
       "lines": [[62322, 61585, 61199, 63613, 61585]],
-      "common_name": {"english": "Musca", "native": "Musca"},
+      "common_name": {"english": "Musca", "native": "La Mouche"},
       "iau": "Mus"
     },
     {
       "id": "CON ruelle Cru",
       "lines": [[60718, 61084], [62434, 59747], [62434, 59747]],
-      "common_name": {"english": "Crux", "native": "Crux"},
+      "common_name": {"english": "Crux", "native": "La Croix"},
       "iau": "Cru"
     },
     {
       "id": "CON ruelle TrA",
       "lines": [[82273, 77952, 74946, 82273]],
-      "common_name": {"english": "Triangulum Australe", "native": "Le Triangle (S)"},
+      "common_name": {"english": "Triangulum Australe", "native": "Le Triangle"},
       "iau": "TrA"
     },
     {
@@ -397,7 +394,7 @@
     {
       "id": "CON ruelle Gru",
       "lines": [[109268, 112122, 108085, 109268]],
-      "common_name": {"english": "Grus", "native": "Grus"},
+      "common_name": {"english": "Grus", "native": "La Grue"},
       "iau": "Gru"
     },
     {
