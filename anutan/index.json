@@ -69,12 +69,13 @@
     "NAME Sirius": [{"english": "The Bird's Body", "native": "Te Tino A Manu"}],
     "NAME Canopus": [{"english": "The East Wing", "native": "Te Kapakau Tonga"}],
     "NAME Procyon": [{"english": "The North Wing", "native": "Te Kapakau Pakatokerau"}],
+    "NAME Antares": [{"english": "Its Stem", "native": "Na Kau"}],
     "HIP 32607": [{"english": "The East Wing's Precursor", "native": "Te Taki O Te Kapakau Tonga"}],
     "HIP 677": [{"english": "Middle Precursor", "native": "Taki Roto", "description": "It is uncertain whether this star name is attached to this or a neighbouring star in the Square of Pegasus."}],
     "NAME Pleiades": [{"english": "Small Face", "native": "Matariki"}],
     "NAME Milky Way": [{"native": "Te Tukaniva"}],
     "NAME Large Magellanic Cloud": [{"english": "The Running Cloud", "native": "Te Ao Rere"}],
-    "NAME Small Magellanic Cloud": [{"english": "The Restrained Cloud", "native": "Te Ao Toka"}],
+    "NAME Small Magellanic Cloud": [{"english": "The Restrained Cloud", "native": "Te Ao Toka", "description": "The English gloss is marked uncertain."}],
     "NAME Venus": [{"english": "The Morning Star", "native": "Te Petuu Ao"}, {"english": "The Evening Star", "native": "Tiuriuri"}]
   }
 }
