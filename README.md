@@ -8,6 +8,7 @@ In process:
 
 * S Asia: Bugis
 * S Asia: Mandar
+* Europe: Ruelle
 
 Still to reformat, grouped by location (Indian/Pacific Ocean, N/C/S America, Eurasia):
 
@@ -33,7 +34,6 @@ Still to reformat, grouped by location (Indian/Pacific Ocean, N/C/S America, Eur
 * Tukano (addition)
 * Tupi (addition)
 
-* Ruelle
 * Russian (supersedes Siberian)
 
 ## Issues
